@@ -1,2 +1,2 @@
 # olidope
-xyz
+A random repository initialization.
